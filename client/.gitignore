@@ -1,0 +1,4 @@
+node_modules
+
+src/components/Categories.js
+src/components/CategoryItem.jsx
